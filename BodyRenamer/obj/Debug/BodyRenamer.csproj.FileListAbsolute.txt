@@ -1,0 +1,16 @@
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\BodyRenamer.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\BodyRenamer.pdb
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\obj\Debug\BodyRenamer.csprojAssemblyReference.cache
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\obj\Debug\BodyRenamer.csproj.CoreCompileInputs.cache
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\obj\Debug\BodyRenamer.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\obj\Debug\BodyRenamer.pdb
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\Assembly-CSharp.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\UnityEngine.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\UnityEngine.UI.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\KSPAssets.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\KSPTrackIR.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\Mono.Cecil.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\Ionic.Zip.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\bin\Debug\TDx.TDxInput.dll
+C:\Users\kayde\source\repos\BodyRenamer\BodyRenamer\obj\Debug\BodyRenamer.csproj.CopyComplete
